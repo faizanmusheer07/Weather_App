@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="today">Today</string>
+    <string name="_00_00_c">00:00 °C</string>
+    <string name="sunny">Sunny</string>
+    <string name="max_00_00_c">Max : 00:00 °C</string>
+    <string name="min_00_00_c">Min : 00:00 °C</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="_25_jan_2023">25 jan 2023</string>
+    <string name="_00_00">00:00</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunny1">SUNNY</string>
+    <string name="condition">Condition</string>
+    <string name="_00_00_sunset">00:00</string>
+    <string name="sunset">Sunset</string>
+    <string name="_0000_hpa">0000 hPa</string>
+    <string name="sea">Sea</string>
+    <string name="_00">00 %</string>
+    <string name="humidity">Humidity</string>
+    <string name="sunriseimage">sunriseImage</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="_0_00_m_s">0.00 m/s</string>
+    <string name="windimage">windImage</string>
+    <string name="conditionimage">conditionImage</string>
+    <string name="sunsetimage">sunsetImage</string>
+    <string name="seaimage">seaImage</string>
+    <string name="humidityimage">humidityImage</string>
+</resources>
